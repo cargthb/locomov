@@ -1,0 +1,24 @@
+{
+  "name": "TESTLOCOMOTIVA",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$path": "src/Workspace"
+    },
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    },
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    }
+  }
+}
